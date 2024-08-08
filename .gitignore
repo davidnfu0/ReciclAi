@@ -17,6 +17,9 @@ Thumbs.db
 # Ignorar archivos temporales
 *.tmp
 
+# Ignorar archivos de caché
+*.cache
+
 # Ignorar todos los archivos dentro de la carpeta data
 data/**
 

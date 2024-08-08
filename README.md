@@ -18,13 +18,19 @@ ___
 1. Abre una terminal y navega a la carpeta donde quieras clonar el repositorio.
 2. Clona el repositorio con el siguiente comando:
 ```bash
-git clone ...
+git clone git@github.com:davidnfu0/ReciclAi.git
 ```
 3. Navega a la carpeta del repositorio:
 ```bash
 cd ReciclAi
 ```
-4. Crea un entorno virtual:
+4. Crear carpeta de datos y modelos:
+```bash
+mkdir data
+mkdir datasets
+mkdir models
+```
+5. Crea un entorno virtual:
 ```bash
 conda create --name reciclai python=3.12
 conda activate reciclai
