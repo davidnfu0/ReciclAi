@@ -6,10 +6,10 @@ En este repositorio de GitHub se encuentra el código fuente del primer prototip
 Mencionar sobre los datos, que no se encuentran en este repositorio, ya que son datos obtenidos desde fuentes externas y no podemos compartirlos.
 
 ## Requerimientos
-- 'Python 3.10 o superior'
-- 'pip'
-- 'git'
-- 'conda o mini-conda'
+- `Python 3.10 o superior`
+- `pip`
+- `git`
+- `conda o mini-conda`
 
 ## Clonando el repositorio
 1. Abre una terminal y navega a la carpeta donde quieras clonar el repositorio.
